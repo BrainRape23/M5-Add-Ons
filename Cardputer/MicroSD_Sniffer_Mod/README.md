@@ -1,6 +1,6 @@
 > [!CAUTION]
 > # !!! This is an untested PCB !!!
-> # !!! If you use them its your Responsibility to assemble them right and its your fault if you break your devices !!!
+> # !!! If you use them its your Responsibility to assemble it right and its your fault if you break your devices !!!
 
 ## For the Cardputer this is an SD Sniffer Mod PCB that can hold the cc1101/nrf24 modules and provide the full Sniffer functionality.
 ## When ordering make shure the PCB is not thicker than 0.75 mm.
