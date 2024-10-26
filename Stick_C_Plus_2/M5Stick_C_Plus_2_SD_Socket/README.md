@@ -1,6 +1,6 @@
 > [!CAUTION]
 > # !!! This is an untested PCB !!!
-> # !!! If you use them its your Responsibility to assemble them right and its your fault if you break your devices !!!
+> # !!! If you use them its your Responsibility to assemble it right and its your fault if you break your devices !!!
 
 ## For the Stick C Plus 2 this is an SD Socket PCB.
 
