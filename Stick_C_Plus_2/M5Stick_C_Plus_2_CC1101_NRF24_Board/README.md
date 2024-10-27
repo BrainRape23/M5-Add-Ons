@@ -8,12 +8,12 @@
 
 BOM:
 
-1 Micro SD PCB (https://www.aliexpress.com/item/1005004916894706.html)
+2x$ Female Pin Header (https://www.aliexpress.com/item/32982421676.html)
 
-8-Pin Bent Header (https://www.aliexpress.com/item/1005007569841697.html)
+8-Pin Bent Header you can cut them too get 2 pins for the 2 Grove Pins (https://www.aliexpress.com/item/1005007569841697.html)
 
 Assembly:
 
-Solder the pin header on the underside of the SD PCB, and then solder the SD PCB onto the upper side.
+Solder the 8-Pin pin header on the underside of the SD PCB, and then solder 2-Pins to G32/G33 onto the upper side.
 
-Solder the 8-pin male header on the underside of the PCB, facing right.
+Solder the 2x4 female header on the upper side of the PCB.
