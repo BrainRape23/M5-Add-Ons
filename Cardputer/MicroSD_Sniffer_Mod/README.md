@@ -7,6 +7,8 @@
 
 ![Preview of the SD Sniffer Mod](/Cardputer/MicroSD_Sniffer_Mod/Sniffer.png)
 
+![Preview of the SD Sniffer Mod](/Cardputer/MicroSD_Sniffer_Mod/Sniffer_1.1.png)
+
 BOM:
 
 1 Micro SD Socket (https://www.aliexpress.com/item/1005006008381766.html)
