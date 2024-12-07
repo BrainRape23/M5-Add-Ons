@@ -1,4 +1,4 @@
-> [!CAUTION]
+# [!CAUTION]
 This PCB is tested and it is working correctly
 
 ## This is a PCB for connecting an SD and the CC1101/NRF24 Module to the Stick C Plus 2.
