@@ -4,10 +4,10 @@
 
 v1.0
 
-![Preview of the FM PCB v1.0](/General/Pics/FM_PCB.png)
+![Preview of the FM PCB v1.0](/General/M5_FM_PCB/Pics/FM_PCB.png)
 
 v1.1
-![Preview of the FM PCB v1.1](/General/Pics/FM_PCB_1.1.png)
+![Preview of the FM PCB v1.1](/General/M5_FM_PCB/Pics/FM_PCB_1.1.png)
 
 BOM:
 
@@ -23,7 +23,7 @@ Solder the 11-Pin Female header, the Tactile Switch, and the 4-Pin Bend Header o
 
 ## Pictures for reference
 
-![Assembly](/General/Pics/FM_PCB_Assembly.jpg)
+![Assembly](/General/M5_FM_PCB/Pics/FM_PCB_Assembly.jpg)
 
 ## v1.1 Changes
 
