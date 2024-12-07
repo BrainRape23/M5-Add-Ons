@@ -30,3 +30,9 @@ Pictures for assembly reference.
 ![Assembly](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Pics/Stick_SD_CC_NRF_Assembly_1.jpg)
 
 ![Assembly](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Pics/Stick_SD_CC_NRF_Assembly_2.jpg)
+
+## Assembled
+
+![Preview of the SD-CC1101/NRF24 PCB for the Stick C Plus 2](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Pics/Assembled_Back.jpg)
+
+![Preview of the SD-CC1101/NRF24 PCB for the Stick C Plus 2](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Pics/Assembled_Front.jpg)

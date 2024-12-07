@@ -5,7 +5,11 @@
 ## This is an SD Sniffer Mod PCB for the Cardputer, designed to hold the CC1101/NRF24 modules and provide full sniffer functionality.
 ## Ensure the PCB thickness does not exceed 0.75 mm when ordering.
 
+v1.0
+
 ![Preview of the SD Sniffer Mod](/Cardputer/MicroSD_Sniffer_Mod/Pics/Sniffer.png)
+
+v1.1
 
 ![Preview of the SD Sniffer Mod](/Cardputer/MicroSD_Sniffer_Mod/Pics/Sniffer_1.1.png)
 
@@ -22,3 +26,9 @@ Assembly:
 Solder the Micro SD socket, the 2x4 female pin header, and the 8-pin male header on the top side of the PCB.
 
 Cut 2 pins from an 8-pin header and solder them facing left on the underside of the PCB.
+
+## v1.1 Changes
+
+Shortened the SD Stem into the SD Socket to make it more stable.
+
+Widened the SD Stem to make it lock into the Cardputer socket as it had a loose Connection. 
