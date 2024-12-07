@@ -1,22 +1,30 @@
-> [!CAUTION]
-> # !!! This is an untested PCB !!!
-> # !!! If you use it, you are responsible for assembling it correctly, and any damage to your devices is at your own risk !!!
+# !!! This PCB is tested and it works !!!
 
-## This is an SD Sniffer Mod PCB for the Cardputer, designed to hold the CC1101/NRF24 modules and provide full sniffer functionality.
-## Ensure the PCB thickness does not exceed 0.75 mm when ordering.
+## This is an FM Modulr PCB with reset Button.
 
-![Preview of the SD Sniffer Mod](/Cardputer/MicroSD_Sniffer_Mod/Sniffer.png)
+v1.0
+
+![Preview of the FM PCB v1.0](/General/Pics/FM_PCB.png)
+
+v1.1
+![Preview of the FM PCB v1.1](/General/Pics/FM_PCB_1.1.png)
 
 BOM:
 
-1 Micro SD Socket (https://www.aliexpress.com/item/1005006008381766.html)
+11-Pin Female Header buy the 1x40P Female L-10mm Version and cut it yourself (https://www.aliexpress.com/item/1005005053790061.html)
 
-2x4 Female Pin Header (https://www.aliexpress.com/item/32982421676.html)
+4-Pin Bend Male Header (https://www.aliexpress.com/item/1005007569841697.html)
 
-8-Pin Male Bent Header: You can cut this to create a 2-pin header for the G1/G2 connection (https://www.aliexpress.com/item/1005007569841697.html)
+6x6mm Tactile Switches (https://www.aliexpress.com/item/1005002487399422.html)
 
 Assembly:
 
-Solder the Micro SD socket, the 2x4 female pin header, and the 8-pin male header on the top side of the PCB.
+Solder the 11-Pin Female header, the Tactile Switch, and the 4-Pin Bend Header on the top side of the PCB.
 
-Cut 2 pins from an 8-pin header and solder them facing left on the underside of the PCB.
+## Pictures for reference
+
+![Assembly](/General/Pics/FM_PCB_Assembly.jpg)
+
+## v1.1 Changes
+
+Updated the Footprint of thr Switch cause all Pins of the tactile swith where connected to GND.
