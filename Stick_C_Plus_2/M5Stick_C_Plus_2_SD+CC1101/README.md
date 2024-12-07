@@ -33,9 +33,9 @@ After Soldering snap off the pins from the Headers so you can attach the PCB.
 Pictures for assembly reference.
 
 > [!TIP]
-
+> 
 > ![Assembly](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Pics/Stick_SD_CC_NRF_Assembly_1.jpg)
-
+>
 > ![Assembly](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Pics/Stick_SD_CC_NRF_Assembly_2.jpg)
 
 # Assembled
@@ -49,5 +49,5 @@ Pictures for assembly reference.
 ## v1.1 Changes
 
 > Removed the connection between 3.3v and 5v that was a design flaw and would have damaged the Stick.
-
+>
 > Moved the 3.3v Trace away from the CC1101/NRF24 to prevent distortion of the Signal.
