@@ -22,3 +22,8 @@ Assembly:
 Solder the Micro SD socket, the 2x4 female pin header, and the 8-pin male header on the top side of the PCB.
 
 Cut 2 pins from an 8-pin header and solder them facing left on the underside of the PCB.
+
+## v1.1 Changes
+
+Shortened the Stem into the SD Socket to make it more stable.
+Widened the SD Stem to make it lock into the Cardputer socket as it had a loose Connection. 
