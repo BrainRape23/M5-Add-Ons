@@ -27,4 +27,4 @@ Solder the 11-Pin Female header, the Tactile Switch, and the 4-Pin Bend Header o
 
 ## v1.1 Changes
 
-Updated the Footprint of thr Switch cause all Pins of the tactile swith where connected to GND.
+Updated the Footprint of thr Switch cause all Pins of the tactile swith where connected to GND and made it through hole for easy assembly.
