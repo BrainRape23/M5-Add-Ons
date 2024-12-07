@@ -1,4 +1,4 @@
-# > [!CAUTION]
+> [!CAUTION]
 >
 > This PCB is tested and it is working correctly
 
