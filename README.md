@@ -1,4 +1,4 @@
-# M5-add-ons
+# M5-Bruce-add-ons
 Custom PCBs for M5 Products
 
 > [!CAUTION]
