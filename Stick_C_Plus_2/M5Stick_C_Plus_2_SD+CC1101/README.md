@@ -1,6 +1,6 @@
 > [!CAUTION]
 
-This PCB is tested and it is working correctly
+> This PCB is tested and it is working correctly
 
 ## This is a PCB for connecting an SD and the CC1101/NRF24 Module to the Stick C Plus 2.
 
@@ -32,11 +32,11 @@ After Soldering snap off the pins from the Headers so you can attach the PCB.
 
 Pictures for assembly reference.
 
-[!TIP]
+> [!TIP]
 
-![Assembly](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Pics/Stick_SD_CC_NRF_Assembly_1.jpg)
+> ![Assembly](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Pics/Stick_SD_CC_NRF_Assembly_1.jpg)
 
-![Assembly](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Pics/Stick_SD_CC_NRF_Assembly_2.jpg)
+> ![Assembly](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Pics/Stick_SD_CC_NRF_Assembly_2.jpg)
 
 # Assembled
 
@@ -44,10 +44,10 @@ Pictures for assembly reference.
 
 ![Preview of the SD-CC1101/NRF24 PCB for the Stick C Plus 2](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Pics/Assembled_Front.jpg)
 
-[!NOTE]
+> [!NOTE]
 
 ## v1.1 Changes
 
-Removed the connection between 3.3v and 5v that was a design flaw and would have damaged the Stick.
+> Removed the connection between 3.3v and 5v that was a design flaw and would have damaged the Stick.
 
-Moved the 3.3v Trace away from the CC1101/NRF24 to prevent distortion of the Signal.
+> Moved the 3.3v Trace away from the CC1101/NRF24 to prevent distortion of the Signal.
