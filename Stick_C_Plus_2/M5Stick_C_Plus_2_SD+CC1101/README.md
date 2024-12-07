@@ -5,7 +5,7 @@ This PCB is tested and it is working correctly
 
 v1.1
 
-![Preview of the SD-CC1101/NRF24 PCB for the Stick C Plus 2](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Stick_SD_CC1101_v1.1.png)
+![Preview of the SD-CC1101/NRF24 PCB for the Stick C Plus 2](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Pics/Stick_SD_CC1101_v1.1.png)
 
 BOM:
 
