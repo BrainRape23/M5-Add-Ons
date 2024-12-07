@@ -5,7 +5,11 @@
 ## This is an SD Sniffer Mod PCB for the Cardputer, designed to hold the CC1101/NRF24 modules and provide full sniffer functionality.
 ## Ensure the PCB thickness does not exceed 0.75 mm when ordering.
 
+v1.0
+
 ![Preview of the SD Sniffer Mod](/Cardputer/MicroSD_Sniffer_Mod/Pics/Sniffer.png)
+
+v1.1
 
 ![Preview of the SD Sniffer Mod](/Cardputer/MicroSD_Sniffer_Mod/Pics/Sniffer_1.1.png)
 
