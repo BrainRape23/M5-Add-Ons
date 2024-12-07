@@ -4,15 +4,15 @@
 
 ## This is a PCB for connecting an SD and the CC1101/NRF24 Module to the Stick C Plus 2.
 
-v1.0
+# v1.0
 
 ![Preview of the SD-CC1101/NRF24 PCB for the Stick C Plus 2](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Pics/Stick_SD_CC1101_v1.0.png)
 
-v1.1
+# v1.1
 
 ![Preview of the SD-CC1101/NRF24 PCB for the Stick C Plus 2](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Pics/Stick_SD_CC1101_v1.1.png)
 
-BOM:
+# BOM:
 
 1 Micro SD Module (https://www.aliexpress.com/item/1005004916894706.html).
 
@@ -24,7 +24,7 @@ BOM:
 
 1 Grove Socket (https://www.aliexpress.com/item/32816284007.html).
 
-Assembly:
+# Assembly:
 
 Solder the bend pin header on the underside of the PCB, then solder the 6-Pin Header; the 2x4 AND THE Grove Socket PCB onto the upper side.
 
