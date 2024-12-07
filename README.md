@@ -6,9 +6,9 @@ Custom PCBs for M5 Products
 
 For the Cardputer, there is an SD Sniffer Mod PCB that accommodates the CC1101/NRF24 modules and provides full sniffer functionality.
 
-![Preview of the SD Sniffer Mod](/Cardputer/MicroSD_Sniffer_Mod/Sniffer.png)
+![Preview of the SD Sniffer Mod](/Cardputer/MicroSD_Sniffer_Mod/Pics/Sniffer_1.1.png)
 
 I created an SD socket PCB for the Stick C Plus 2.
 
-![SD Mount for the Stick C Plus 2.](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD_Socket/Stick_SD.png)
+![SD Mount for the Stick C Plus 2.](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD_Socket/Pics/Stick_SD_1.1.png)
 
