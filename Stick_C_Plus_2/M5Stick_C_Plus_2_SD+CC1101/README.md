@@ -32,7 +32,7 @@ After Soldering snap off the pins from the Headers so you can attach the PCB.
 
 Pictures for assembly reference.
 
-> [!TIP]
+[!TIP]
 
 ![Assembly](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Pics/Stick_SD_CC_NRF_Assembly_1.jpg)
 
@@ -44,7 +44,7 @@ Pictures for assembly reference.
 
 ![Preview of the SD-CC1101/NRF24 PCB for the Stick C Plus 2](/Stick_C_Plus_2/M5Stick_C_Plus_2_SD+CC1101/Pics/Assembled_Front.jpg)
 
-> [!NOTE]
+[!NOTE]
 
 ## v1.1 Changes
 
