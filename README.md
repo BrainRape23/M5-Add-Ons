@@ -1,5 +1,6 @@
 # M5-Bruce-add-ons
 Custom PCBs for M5 Products
+More Designs are in the making as i started my journey into hardware design just with this Project.
 
 > [!CAUTION]
 > # **Some of these PCBs are untested and in development. If you choose to use them, it is your responsibility to assemble them correctly, and any damage to your devices will be at your own risk.**
